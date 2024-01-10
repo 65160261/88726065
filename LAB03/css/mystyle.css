@@ -1,0 +1,29 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background-color: #ffffff;
+}
+
+.main {
+    font-size: 30px;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+.main {a,a:link, a:visited, a:hover, a:active {
+    color: inherit;
+    text-decoration: none;
+}}
+
+a,a:link, a:visited, a:hover, a:active {
+    color: black;
+}
+
+.aboutme {
+    width:fit-content;
+    height: auto;
+    padding: 10px;
+    border: 5px solid rgb(101, 199, 206);
+    margin: 0;
+  }
