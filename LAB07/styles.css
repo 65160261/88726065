@@ -8,7 +8,7 @@ body {
 h1 {
     color: #333;
     font-size: 24px;
-    background-color: #bbffb2;
+    background-color: #8deeff;
     padding: 15px;
     border-radius: 5px;
     color: rgb(0,0,0);
@@ -34,7 +34,7 @@ li {
 }
 
 li.completed {
-    background-color: #d4edda;
+    background-color: #e0bafa;
     text-decoration: line-through;
 }
 
@@ -49,14 +49,14 @@ input[type="text"] {
 
 button {
     padding: 12px 24px;
-    background-color: #ffaced;
+    background-color: #52ca6c;
     color: white;
     border: none;
-    border-radius: 8px;
+    border-radius: 10px;
     cursor: pointer;
     transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #eb3030;
 }
