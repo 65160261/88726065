@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Java",
+    "price": "50",
+    "author": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "C++",
+    "price": "150",
+    "author": [
+      "C",
+      "D"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "HTML",
+    "price": "200",
+    "author": [
+      "E",
+      "F",
+      "A"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Network",
+    "price": "20",
+    "author": [
+      "B",
+      "G",
+      "C"
+    ]
+  }
+]
